@@ -1,3 +1,3 @@
 <?php
- echo "init";
+ echo "atualização remota via gitHub...";
 ?>
